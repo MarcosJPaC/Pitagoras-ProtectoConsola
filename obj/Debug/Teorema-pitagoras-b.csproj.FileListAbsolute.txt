@@ -1,0 +1,7 @@
+C:\Users\Computadora\source\repos\Teorema-pitagoras-b\bin\Debug\Teorema-pitagoras-b.exe.config
+C:\Users\Computadora\source\repos\Teorema-pitagoras-b\bin\Debug\Teorema-pitagoras-b.exe
+C:\Users\Computadora\source\repos\Teorema-pitagoras-b\bin\Debug\Teorema-pitagoras-b.pdb
+C:\Users\Computadora\source\repos\Teorema-pitagoras-b\obj\Debug\Teorema-pitagoras-b.csprojAssemblyReference.cache
+C:\Users\Computadora\source\repos\Teorema-pitagoras-b\obj\Debug\Teorema-pitagoras-b.csproj.CoreCompileInputs.cache
+C:\Users\Computadora\source\repos\Teorema-pitagoras-b\obj\Debug\Teorema-pitagoras-b.exe
+C:\Users\Computadora\source\repos\Teorema-pitagoras-b\obj\Debug\Teorema-pitagoras-b.pdb
